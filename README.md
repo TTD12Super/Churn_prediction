@@ -1,6 +1,8 @@
-# ChurnProject
+# Churn_prediction
 
 Dự án phân tích và dự đoán khách hàng có khả năng rời bỏ (customer churn) dựa trên bộ dữ liệu thương mại điện tử Olist của Brazil.
+
+Customer churn analysis and prediction using the Brazilian Olist e-commerce dataset, with data preprocessing, feature engineering, and machine learning.
 
 ## Cấu trúc thư mục
 
